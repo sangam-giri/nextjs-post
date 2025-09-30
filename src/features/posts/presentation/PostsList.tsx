@@ -1,4 +1,4 @@
-import { Post } from "../domain/types";
+import { Post } from "@/features/posts/domain/types";
 
 interface Props {
   posts: Post[];

@@ -1,4 +1,4 @@
-import { API_BASE_URL } from "@/app/apiConfig";
+import { API_BASE_URL } from "@/core/config/apiConfig";
 
 type HttpMethod = "GET" | "POST" | "PUT" | "PATCH" | "DELETE";
 
